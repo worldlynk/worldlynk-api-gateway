@@ -1,0 +1,19 @@
+{
+  "name": "worldlynk-api-gateway",
+  "version": "1.0.0",
+  "description": "this service maps the requests to the concerned microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldlynk/worldlynk-api-gateway.git"
+  },
+  "author": "worldlynk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldlynk/worldlynk-api-gateway/issues"
+  },
+  "homepage": "https://github.com/worldlynk/worldlynk-api-gateway#readme"
+}
